@@ -33,5 +33,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- _posts/testing.md
+- _posts/2018-09-29-testing.md
 - index.md
